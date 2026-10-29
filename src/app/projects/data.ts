@@ -29,7 +29,7 @@ export const projects: Project[] = [
       "MongoDB",
     ],
     // Add your actual repository and deployed URLs here.
-    github: "https://github.com/Al-aminCodes/wonder-lust",
+    github: "https://github.com/Al-aminCodes/wanderlust-client",
     demo: "",
     status: "In Development",
     icon: "globe",
